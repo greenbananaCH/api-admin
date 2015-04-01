@@ -84,7 +84,7 @@ Installation depends on `node`/`npm` with `grunt` and `bower` installed globally
 
 ### Checkout the project:
 
-    git clone https://github.com/beeman/loopback-angular-admin.git
+    git clone https://github.com/greenbananaCH/loopback-angular-admin.git
 
 ### Install the Node packages:
 
@@ -92,7 +92,7 @@ Installation depends on `node`/`npm` with `grunt` and `bower` installed globally
 
 ### Clone, install and run in a oneliner
 
-    git clone https://github.com/beeman/loopback-angular-admin.git && cd loopback-angular-admin && npm install && npm start & grunt serve
+    git clone https://github.com/greenbananaCH/loopback-angular-admin.git ./ && cd loopback-angular-admin && npm install && npm start & grunt serve
 
 ## Running
 
